@@ -1,7 +1,7 @@
 ## Welcome Viewer! 👋
 
 ### 
-I am an aspiring Machine Learning Engineer. I recently completed my Master's in Applied Mathematics and Bachelor's in Mathematics with a minor in Computer Science. Browse through my repositories to see what I've been working on!
+Raafi's ultimate goal on life is to push the limits of Humanity. He is a Native New Yorker who recently complete his Master's in Applied Mathematics from Hunter College. He was a part of the BA/MA program where he also completed his Bachelor's in Mathematics with a minor in Computer Science. His interests include math, chess, physics, space and aviation, technology, investing, philosophy, etymology, Sci-Fi, music, and WWII/Cold War era history.
 <br /><br />
 
 ## I am currently...
@@ -13,3 +13,6 @@ I am an aspiring Machine Learning Engineer. I recently completed my Master's in 
 ## How to reach me:
 - Email: rahmanraafi00@gmail.com
 - LinkedIn: www.linkedin.com/in/raafi101
+<br />
+
+### See what I've been working on! 👇
