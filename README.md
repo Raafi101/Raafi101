@@ -11,6 +11,5 @@ My ultimate goal in life is to push the limits of humanity. I am a Native New Yo
 - Portfolio: www.raafirahman.com
 - Email: rahmanraafi00@gmail.com
 - LinkedIn: www.linkedin.com/in/raafi101
-<br />
 
 ### See what I've been working on! 👇
