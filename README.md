@@ -9,7 +9,8 @@ My ultimate goal in life is to push the limits of humanity. I am a Native New Yo
 - Reading through the Isaac Asimov Robot, Empire, and Foundation series
 <br />
 
-## How to reach me:
+## My links:
+- Portfolio: www.raafirahman.com
 - Email: rahmanraafi00@gmail.com
 - LinkedIn: www.linkedin.com/in/raafi101
 <br />
