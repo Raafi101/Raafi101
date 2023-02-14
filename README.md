@@ -4,7 +4,7 @@ My ultimate goal in life is to push the limits of humanity. I am a Native New Yo
 
 ## I am currently...
 - Looking for a job as a Machine Learning Engineer, AI Researcher, Data Scientist, or Software Engineer
-- Thinking about a possible project combining AI and AR
+- Developing my skills in reinforcement learning
 - Reading through the Isaac Asimov Robot, Empire, and Foundation series
 
 ## My links:
