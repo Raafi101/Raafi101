@@ -12,4 +12,6 @@ My ultimate goal in life is to push the limits of humanity. I am a Native New Yo
 - Email: rahmanraafi00@gmail.com
 - LinkedIn: www.linkedin.com/in/raafi101
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### See what I've been working on! 👇
